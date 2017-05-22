@@ -1,0 +1,11 @@
+[Project]
+FileName=C:\code\C(++)\OdysseyDLL\OdysseyDLL2.dev
+Name=My First Test DLL
+use_gpp=1
+UnitCount=1
+NoConsole=0
+IsDll=0
+ObjFile=C:\code\C(++)\OdysseyDLL\libOdysseyDLL.a
+
+[Unit1]
+FileName=C:\code\C(++)\OdysseyDLL\MainExe.cpp

@@ -1,0 +1,79 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: OdysseyDLL - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\DEVELO~1\LOCALS~1\Temp\RSP341.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "ODYSSEYDLL_EXPORTS" /Fp"Debug/OdysseyDLL.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"C:\Documents and Settings\Development\Desktop\OdysseyDLL\Alpha.cpp"
+"C:\Documents and Settings\Development\Desktop\OdysseyDLL\MainDll.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\DEVELO~1\LOCALS~1\Temp\RSP341.tmp" 
+Creating command line "link.exe ws2_32.dll /nologo /dll /incremental:yes /pdb:"Debug/OdysseyDLL.pdb" /debug /machine:I386 /out:"Debug/OdysseyDLL.dll" /implib:"Debug/OdysseyDLL.lib" /pdbtype:sept  ".\Debug\Alpha.obj" ".\Debug\MainDll.obj" "
+<h3>Output Window</h3>
+Compiling...
+Alpha.cpp
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(15) : error C2065: 'LPDIRECTDRAWSURFACE7' : undeclared identifier
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(15) : error C2146: syntax error : missing ')' before identifier 'lpDDS'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(15) : error C2059: syntax error : ')'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(17) : error C2146: syntax error : missing ')' before identifier 'lpDDSDest'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(18) : error C2059: syntax error : ')'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(20) : error C2146: syntax error : missing ')' before identifier 'lpDDSDest'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(21) : error C2059: syntax error : ')'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(23) : error C2146: syntax error : missing ')' before identifier 'lpDDSDest'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(24) : error C2059: syntax error : ')'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(26) : error C2146: syntax error : missing ')' before identifier 'lpDDSDest'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(27) : error C2059: syntax error : ')'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(55) : error C2146: syntax error : missing ')' before identifier 'lpDDS'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(55) : error C2086: 'GetRGBMode' : redefinition
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(55) : error C2059: syntax error : ')'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(56) : error C2143: syntax error : missing ';' before '{'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(56) : error C2447: missing function header (old-style formal list?)
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(147) : error C2146: syntax error : missing ')' before identifier 'lpDDSDest'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(147) : error C2086: 'BltAlpha' : redefinition
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(148) : error C2059: syntax error : ')'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(149) : error C2143: syntax error : missing ';' before '{'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(149) : error C2447: missing function header (old-style formal list?)
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(848) : error C2146: syntax error : missing ')' before identifier 'lpDDSDest'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(848) : error C2086: 'BltAlphaMMX' : redefinition
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(849) : error C2059: syntax error : ')'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(850) : error C2143: syntax error : missing ';' before '{'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(850) : error C2447: missing function header (old-style formal list?)
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(1756) : error C2059: syntax error : 'bad suffix on number'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(1936) : error C2059: syntax error : 'bad suffix on number'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(1939) : error C2059: syntax error : 'bad suffix on number'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(2160) : error C2146: syntax error : missing ')' before identifier 'lpDDSDest'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(2160) : error C2086: 'BltAlphaFast' : redefinition
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(2161) : error C2059: syntax error : ')'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(2162) : error C2143: syntax error : missing ';' before '{'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(2162) : error C2447: missing function header (old-style formal list?)
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(2785) : error C2146: syntax error : missing ')' before identifier 'lpDDSDest'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(2785) : error C2086: 'BltAlphaFastMMX' : redefinition
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(2786) : error C2059: syntax error : ')'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(2787) : error C2143: syntax error : missing ';' before '{'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(2787) : error C2447: missing function header (old-style formal list?)
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(3458) : error C2059: syntax error : 'bad suffix on number'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(3609) : error C2059: syntax error : 'bad suffix on number'
+c:\documents and settings\development\desktop\odysseydll\alpha.cpp(3611) : error C2059: syntax error : 'bad suffix on number'
+MainDll.cpp
+c:\documents and settings\development\desktop\odysseydll\maindll.cpp(17) : error C2632: 'long' followed by 'long' is illegal
+c:\documents and settings\development\desktop\odysseydll\maindll.cpp(17) : warning C4305: 'initializing' : truncation from 'const __int64' to 'const long'
+c:\documents and settings\development\desktop\odysseydll\maindll.cpp(17) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\development\desktop\odysseydll\maindll.cpp(18) : error C2632: 'long' followed by 'long' is illegal
+c:\documents and settings\development\desktop\odysseydll\maindll.cpp(18) : warning C4305: 'initializing' : truncation from 'const __int64' to 'const long'
+c:\documents and settings\development\desktop\odysseydll\maindll.cpp(18) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\development\desktop\odysseydll\maindll.cpp(165) : error C2039: 'FGTile2' : is not a member of 'Tile'
+        c:\documents and settings\development\desktop\odysseydll\maindll.cpp(33) : see declaration of 'Tile'
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+OdysseyDLL.dll - 45 error(s), 4 warning(s)
+</pre>
+</body>
+</html>

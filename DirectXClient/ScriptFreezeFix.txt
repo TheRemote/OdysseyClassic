@@ -1,0 +1,22 @@
+Instructions if your game/computer freezes when compiling scripts:
+
+ El cAptAIn CooK: goto start then run
+ Slasher9898: mmk
+ El cAptAIn CooK: type cmd
+ El cAptAIn CooK: and hit enter or whatever
+ Slasher9898: ya
+ El cAptAIn CooK: cd C:\windows\system32
+ El cAptAIn CooK: type that
+ El cAptAIn CooK: and hit enter
+ El cAptAIn CooK: dont screw up =p
+ Slasher9898: k
+ El cAptAIn CooK: copy ntvdm.exe ntvdm.bak
+ El cAptAIn CooK: type that
+ El cAptAIn CooK: and hit enter
+ Slasher9898: file copied
+ El cAptAIn CooK: okay
+ El cAptAIn CooK: now
+ El cAptAIn CooK: copy notepad.exe ntvdm.exe
+ El cAptAIn CooK: type that
+ Slasher9898: overwrite?
+ El cAptAIn CooK: type yes

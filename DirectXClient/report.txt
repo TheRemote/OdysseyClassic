@@ -1,0 +1,24 @@
+387 - 2 - 1857
+Check 674
+684
+Check 679
+Find 705
+Check 752
+Check 753
+833
+Check 824,825,826,831,832
+Check 853, 854
+Check 857
+Check 859
+Check 860
+893, 894 torch dupes
+Check 924
+Check 940
+943 - 2 - 1810
+Check 966
+977 - 2 - 1638
+Check 1107
+1114,1115,1117
+Check 1181
+Check 1393
+855 - Dupe Rock

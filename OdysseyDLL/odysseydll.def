@@ -1,0 +1,16 @@
+LIBRARY	odysseydll
+
+EXPORTS
+	ShadeMap16
+	ShadeMap32
+	CreateLightMap
+	UpdateLightMap
+	InitializeLighting
+	InitSnow
+	Snow16
+	Snow32
+	InitRain
+	Rain16
+	Rain32
+	EncryptDataFile
+	EncryptDataString
