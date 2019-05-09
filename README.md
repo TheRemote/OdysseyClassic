@@ -8,6 +8,4 @@ This repository includes my personal main branch used through most of the 2000's
 
 I have also included the updater and update tools which have never been released before.  There is also a minimapper tool that if you give a starting point will map the overworld of your map from a bird's eye perspective.
 
-Contact remote@codemallet.com if you have any questions or would like additional files to be uploaded here.
-
 If there is any interest I may upload some server.dat files such as main, confrontations, etc. although I believe those are already out there.
